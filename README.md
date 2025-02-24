@@ -4,13 +4,13 @@ Hi 👋 My name is Nick Holme
 lover of python, docker, react and gcp.
 ---------------------------------------
 
-started writing html 4 in notepad, spent time working on Siebel and then OBIEE , 2014 learned python instead of R, learned Django cause its awesome, got sidetracked by a startup and wrote little code. covid made me code again :-)
+started writing html 4 in notepad, spent time working on Siebel and then OBIEE , 2014 learned python instead of R, learned Django cause its awesome, got sidetracked by a startup and wrote little code.
 
 * 🌍  I'm based in Jeffreys Bay, surf capital of South Africa :surfer:
 * ✉️  You can tweet me @nickho6617 
-* 🧠  I'm learning aws and have to recertify for GCP Cloud Architect 
-* 🤝  I'm open to collaborating on django projects, saas products and for my sins I have some fintech experience
-* ⚡  future me also knows go or rust
+* 🧠  I have to recertify for GCP Cloud Architect but have about 4 years experience on Google cloud. I use cloud run a lot. 
+* 🤝  I'm open to collaborating on django projects, saas products and for my sins I have some fintech experience.
+* ⚡   Started my go journey
 
 ### Skills
 
