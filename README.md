@@ -8,7 +8,7 @@ started writing html 4 in notepad, spent time working on Siebel and then OBIEE ,
 
 * 🌍  I'm based in Jeffreys Bay, surf capital of South Africa :surfer:
 * ✉️  You can tweet me @nickho6617 
-* 🧠  I have to recertify for GCP Cloud Architect but have about 4 years experience on Google cloud. I use cloud run a lot. 
+* 🧠  I have recertified for GCP Cloud Architect but have about 5 years experience on Google cloud. I use cloud run a lot. 
 * 🤝  I'm open to collaborating on django projects, saas products and for my sins I have some fintech experience.
 * ⚡   Started my go journey
 
