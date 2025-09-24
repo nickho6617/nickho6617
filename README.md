@@ -1,7 +1,7 @@
 Hi 👋 My name is Nick Holme
 ===========================
 
-Favour python, docker, react and gcp.
+I Favour python, docker, react and gcp.
 ---------------------------------------
 
 started writing html 4 in notepad, spent time working on Siebel and then OBIEE , 2014 learned python instead of R, learned Django cause its awesome, got sidetracked by a startup and wrote little code.
